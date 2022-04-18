@@ -15,7 +15,6 @@ quasar.conf.js
 # Quasar core related directories
 .vscode
 .quasar
-/dist
 
 
 # Cordova related directories and files

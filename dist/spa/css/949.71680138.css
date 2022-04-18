@@ -1,0 +1,1 @@
+.container[data-v-0e17ae36]{align-items:center;display:flex;flex-direction:column}.cube[data-v-0e17ae36]{background-color:red;height:200px;margin:100px;transform:translateX(400%);transition:.5s;width:200px}.cube[data-v-0e17ae36]:nth-child(2n){transform:translateX(-400%)}.cube.show[data-v-0e17ae36]{transform:translateX(0)}

@@ -3,14 +3,14 @@
 node_modules
 puplic
 src
-.editorconfig
-.eslintingnore
-.postcssrc.js
-babel.config.js
-jsconfig.json
-package-lock.json
-package.json
-quasar.conf.js
+# .editorconfig
+# .eslintingnore
+# .postcssrc.js
+# babel.config.js
+# jsconfig.json
+# package-lock.json
+# package.json
+# quasar.conf.js
 
 # Quasar core related directories
 .vscode
